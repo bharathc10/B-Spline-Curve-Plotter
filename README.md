@@ -7,8 +7,10 @@ This MATLAB script generates and plots a B-spline curve based on user-defined co
 1. Define the control points and degree of the B-spline in the script.
 2. Run the script to compute and plot the B-spline curve.
 
-### Example:
-```matlab
-controlPointsX = [0 2 4 5 7 9 10];
-controlPointsY = [1 6 8 2 8 7 4];
-degree = 3;
+## Example:
+  controlPointsX = [0 2 4 5 7 9 10];
+  controlPointsY = [1 6 8 2 8 7 4];
+  degree = 3;
+
+## License
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
